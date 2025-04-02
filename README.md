@@ -67,7 +67,6 @@ Voice Assistant Utility Tool is a Windows-based application built with C# and Wi
 This project is licensed under the MIT License.
 
 ## Author
-- **Your Name**
-- GitHub: [cOmrade3267](https://github.com/yourusername)
+- GitHub: [**cOmrade3267**](https://github.com/yourusername)
 
 
